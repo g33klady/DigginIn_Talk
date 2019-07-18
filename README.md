@@ -1,4 +1,4 @@
-#Digging In: Getting Familiar With The Code To Be A Better Tester
+# Digging In: Getting Familiar With The Code To Be A Better Tester
 
 Abstract: Maybe you’ve been testing the same application for a while, and your rate of finding new bugs has slowed. Or you’re trying to find more ways to figure out what your devs are doing day to day. You have the tools at your disposal, you just need to dig in!
 
